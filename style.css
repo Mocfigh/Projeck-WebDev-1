@@ -1,0 +1,13 @@
+* {
+  font-family: "Pangolin", cursive;
+}
+
+aside {
+  float: right;
+  height: 1600px;
+}
+
+footer {
+  text-align: center;
+  background-color: gray;
+}
